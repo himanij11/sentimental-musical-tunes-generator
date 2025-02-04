@@ -63,3 +63,5 @@ The next installation will depend on your OS, ive provided instructions for mac
 After creating the directory copy the .sf2 file present in the dependancy folder to ~/.fluidsynth
 
 
+### Final presentation:
+https://drive.google.com/file/d/1HzoucE2qnVVUqzVpb9zxHn7C74_qp4u8/view?usp=share_link
